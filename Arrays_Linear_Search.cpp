@@ -19,7 +19,7 @@ int main () {
 			break;
 		}
 	}
-	if(arr[i]==n){
+	if(arr[i]!=m){
 		cout<<"-1"<<endl;
 	}
 	return 0;
